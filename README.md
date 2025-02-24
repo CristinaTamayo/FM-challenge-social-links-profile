@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ![](https://github.com/CristinaTamayo/FM-challenge-social-links-profile)
-- Live Site URL: ![](https://cristinatamayo.github.io/FM-challenge-social-links-profile)
+- Solution URL: [](https://github.com/CristinaTamayo/FM-challenge-social-links-profile)
+- Live Site URL: [](https://cristinatamayo.github.io/FM-challenge-social-links-profile)
 
 ## My process
 
@@ -68,6 +68,6 @@ Next time I would like to focus more on the first-mobile coding when writting th
 
 ## Author
 
-- Website - ![](https://cristinatamayo.github.io/portfolio/)
-- Frontend Mentor - ![](https://www.frontendmentor.io/profile/CristinaTamayo)
-- Linkedin - ![](https://www.linkedin.com/in/cristina-tamayo-a45000116/)
+- Website - [](https://cristinatamayo.github.io/portfolio/)
+- Frontend Mentor - [](https://www.frontendmentor.io/profile/CristinaTamayo)
+- Linkedin - [](https://www.linkedin.com/in/cristina-tamayo-a45000116/)
